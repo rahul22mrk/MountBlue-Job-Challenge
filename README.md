@@ -39,3 +39,8 @@ For more debugging and problem solving content in detail, check out https://gith
         fm.format("%.6f", pos/n);
         
         System.out.println(fm);
+        
+ ## 3. Sort Array,Arraylist
+       ArrayList- Collections.sort(arr);
+       Array- Arrays.sort(arr)
+        
