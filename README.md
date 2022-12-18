@@ -21,7 +21,7 @@ For more debugging and problem solving content in detail, check out https://gith
 
 # Important Questions - by me
 
-### 1. Plus Minus Sum - https://p.ip.fi/5Vvr
-### 2. Between-two-sets https://p.ip.fi/54st
-### 3. Quicksort 1- Partition https://p.ip.fi/Yoq4
-### 4. Breaking the Records  https://p.ip.fi/MDBi
+1. Plus Minus Sum - https://p.ip.fi/5Vvr
+2. Between-two-sets https://p.ip.fi/54st
+3. Quicksort 1- Partition https://p.ip.fi/Yoq4
+4. Breaking the Records  https://p.ip.fi/MDBi
