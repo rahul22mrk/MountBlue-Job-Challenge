@@ -10,6 +10,7 @@ HackerRank Challenge: https://www.hackerrank.com/mountblue-technologies
 * Check https://bit.ly/submit_mb_prep for resources.
 
 Once complete, submit on https://bit.ly/submit_mb_prep for getting interviewed
+
 For more debugging and problem solving content in detail, check out https://github.com/mountblue/prep
 
 # Process :
