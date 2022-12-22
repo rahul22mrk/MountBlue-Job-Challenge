@@ -42,6 +42,9 @@ For more debugging and problem solving content in detail, check out https://gith
         System.out.println(fm);
         
  ## 3. Sort Array,Arraylist
+        sort in ascending order
        ArrayList- Collections.sort(arr);
+       //sort in reverse order
+       Collections.sort(calorie,Collections.reverseOrder());
        Array- Arrays.sort(arr)
         
