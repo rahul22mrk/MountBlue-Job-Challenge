@@ -24,3 +24,4 @@ public static String fairRations(List<Integer> b) {
         }
         String res=""+loaf;
         return res;
+}
