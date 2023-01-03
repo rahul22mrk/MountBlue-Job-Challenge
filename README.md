@@ -26,6 +26,7 @@ For more debugging and problem solving content in detail, check out https://gith
 3. Quicksort 1- Partition https://p.ip.fi/Yoq4
 4. Breaking the Records  https://p.ip.fi/MDBi
 5. DrawingBook.java https://p.ip.fi/nn2f
+6. Strong Password 
 
 # Concept -
 ## 1. How do I call .get() on a 2d ArrayList
